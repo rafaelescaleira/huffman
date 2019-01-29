@@ -1,6 +1,8 @@
 Huffman (Compactar e Descompactar)
 ===========================================
 
+![License](https://img.shields.io/github/license/rafaelescaleira/huffman.svg)
+
 Esse repositório possui funções implementadas em linguagem C.
 Segue a lista das funções :
 
